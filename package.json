@@ -72,7 +72,7 @@
   "devDependencies": {
     "del": "4.1.1",
     "extract-text-webpack-plugin": "2.1.0",
-    "graphlib": "2.1.1",
+    "graphlib": "2.1.7",
     "gulp": "4.0.2",
     "gulp-autoprefixer": "6.1.0",
     "gulp-babel": "7.0.1",
