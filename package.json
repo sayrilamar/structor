@@ -70,7 +70,7 @@
     "whatwg-fetch": "^3.0.0"
   },
   "devDependencies": {
-    "del": "4.1.1",
+    "del": "5.1.0",
     "extract-text-webpack-plugin": "2.1.0",
     "graphlib": "2.1.7",
     "gulp": "4.0.2",
